@@ -15,7 +15,7 @@ export class Home extends Component {
                        
                       
                         <Tab>Purchase Stocks</Tab>
-                        <Tab>My Stock History</Tab>
+                        <Tab>OrderBook</Tab>
                         <Tab>Trending Stocks</Tab>
                     </TabList>
 
